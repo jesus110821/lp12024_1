@@ -13,3 +13,5 @@ string = "exemplo de string"
 vogais = 'aeiou'
 contagem_vogais = {vogal: string.count(vogal) for vogal in vogais if string.count(vogal) > 0}
 print(contagem_vogais)
+
+

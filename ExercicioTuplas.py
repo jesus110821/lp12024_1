@@ -14,3 +14,4 @@ for i in range(tamanho_max):
 tupla_intercalada = tuple(intercalado)
 
 print(tupla_intercalada)
+

@@ -17,3 +17,4 @@ print(pessoas_ambas)
 print(pessoas_duplicadas)
 print(total_distintas)
 print(pessoas_apenas_uma)
+
